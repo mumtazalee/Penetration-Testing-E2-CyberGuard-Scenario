@@ -1,10 +1,10 @@
 # 🔐 PenTest L5 E2 — Raven VM Full Penetration Test Report
 
-> **Author:** Mumtaz Mullick (Student ID: 453779)  
+> **Author:** Mumtaz Mullick 
 > **Target:** Raven Virtual Machine  
 > **Engagement Type:** Authorised White-Hat (CyberGuard Scenario)  
 > **Methodology:** PTES (Penetration Testing Execution Standard)  
-> **Environment:** Kali Linux → VMware NAT (192.168.209.0/24)
+> **Environment:** Kali Linux → VMware NAT
 
 ---
 
@@ -596,4 +596,4 @@ This assessment revealed a **high-risk vulnerability chain** rather than an isol
 
 ---
 
-*Report prepared by Mumtaz Mullick (453779) | PenTest L5 E2 Assessment | CyberGuard Engagement*
+*Report prepared by Mumtaz Mullick | PenTest L5 E2 Assessment | CyberGuard Engagement*
